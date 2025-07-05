@@ -5,5 +5,3 @@
 PMCardboard is a fanmade PC port of the N64 RPG Paper Mario, based on [the work of the Paper Mario Reverse Engineering Team](https://github.com/pmret/papermario).
 
 To set up the repository, see [SETUP.md](SETUP.md).
-
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for information on how to contribute to the project.
